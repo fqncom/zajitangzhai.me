@@ -1,2 +1,2 @@
 # zajitangzhai.me
-blog repo for zajitangzhai.me
+repo for zajitangzhai.me
